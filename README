@@ -1,0 +1,7 @@
+python3 server example
+
+app.js
+url 읽어오기
+
+app2.js
+서버 열어서 get 요청 들어오면 응답하기
